@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ex16 {
 	
-	public static void mian(String[] args) {
+	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -13,7 +13,7 @@ public class Ex16 {
 		int sum = 0;
 		int count = 0;
 		
-		for(int i = 1; i<num; i++) {
+		for(int i = 1; i<=num; i++) {
 			if(i%5==0) {
 				
 				sum = sum+i;
