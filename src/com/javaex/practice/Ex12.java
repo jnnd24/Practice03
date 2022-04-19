@@ -18,7 +18,7 @@ public class Ex12 {
 		
 		System.out.println("결과값 : "+ex);
 		
-		
+		sc.close();
 	}
 
 }

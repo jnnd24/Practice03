@@ -26,13 +26,8 @@ public class Ex14 {
 				System.out.print(" + "+j);
 			}
 		}
-		
-		
 		System.out.println("");
 		System.out.println("합계: "+sum);
-		
-		
-		
+		sc.close();
 	}
-
 }

@@ -17,11 +17,6 @@ public class Ex15 {
 				System.out.println(i);
 			}else {}
 		}
-		
-		
-		
-		
-		
+		sc.close();
 	}
-
 }
